@@ -1,4 +1,3 @@
-# chronic-kidney-disease-Prediction-using-Machine-Learning
   <h1  align="left">Chronic Kidney Disease Prediction with Machine Learning</h1>
 
   <h2  align="left">Project Overview</h2>
